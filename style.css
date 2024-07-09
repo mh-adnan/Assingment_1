@@ -5,6 +5,25 @@
     padding: 0;
 }
 
+/* common properties */
+
+.btn-comon {
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    width: 231px;
+    height: 50px;
+    padding: 20px 20px 12px 20px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+
+
+
+/* common properties ends here */
+
+
 .header {
     background-image: url(B10A1-Challenge-Begins/assets/Hero_bg.png);
     background-repeat: no-repeat;
@@ -32,13 +51,17 @@
     font-weight: 800;
 }
 
-.header_title description {
+.header_description {
 
     color: rgb(13, 19, 33);
+    width: 852px;
+    height: 52px;
     font-family: Azeret Mono;
     font-size: 16px;
     font-weight: 400;
+    /* margin-left: 400px; */
     text-align: center;
+
 }
 
 .header_button {
@@ -50,7 +73,7 @@
     padding: 21px 24px 21px 24px;
     border-radius: 8px;
     background: rgb(13, 19, 33);
-    
+
 }
 
 .text {
@@ -61,3 +84,228 @@
     width: 196px;
     height: 23px;
 }
+
+
+/* header part ends here  */
+
+
+
+/* why web development start from here  */
+
+/* .main_part {
+    width: 852px;
+    height: 113px;
+    display: flex;
+    justify-content: center;
+    
+   
+} */
+
+
+.top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.why_dev {
+    width: 852px;
+    height: 37px;
+    font-family: Azeret Mono;
+    font-size: 32px;
+    font-weight: 800;
+    margin-left: 150px;
+    margin-bottom: 50px;
+}
+
+.why_dev_description {
+    width: 852px;
+    height: 100px;
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    /* margin-left: 150px;
+    margin-bottom: 50px; */
+    text-align: justify;
+}
+
+
+/* first portion start  */
+
+
+.middel_part1 {
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin-left: 250px;
+    margin-bottom: 300px;
+
+}
+
+.left {
+    width: 390px;
+    height: 72px;
+    /* border: 2px solid rgb(0, 255, 136); */
+
+}
+
+.middel-title {
+    width: 390px;
+    height: 72px;
+    /* border: 2px solid rgb(0, 255, 136); */
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 50px;
+
+}
+
+.middel-description {
+    width: 468px;
+    height: 52px;
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+
+.right {
+    width: 390px;
+    height: 72px;
+    /* border: 2px solid rgb(255, 234, 0); */
+
+}
+
+
+/* first portion ends */
+
+
+
+
+
+/* 2nd portion start  */
+
+
+.middel_part2 {
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    width: 80%;
+    margin-left: 250px;
+    margin-bottom: 300px;
+
+}
+
+.left {
+    width: 390px;
+    height: 72px;
+    /* border: 2px solid rgb(0, 255, 136); */
+
+}
+
+.middel-title {
+    width: 390px;
+    height: 72px;
+    /* border: 2px solid rgb(0, 255, 136); */
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 50px;
+
+}
+
+.middel-description {
+    width: 468px;
+    height: 52px;
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+
+.right {
+    width: 390px;
+    height: 72px;
+    /* border: 2px solid rgb(255, 234, 0); */
+
+}
+
+
+/* 2nd portion ends */
+
+
+
+
+
+
+
+
+
+
+/* 3rd portion start  */
+
+
+.middel_part3 {
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin-left: 250px;
+    margin-bottom: 300px;
+
+}
+
+.left {
+    width: 390px;
+    height: 72px;
+    /* border: 2px solid rgb(0, 255, 136); */
+
+}
+
+.middel-title {
+    width: 390px;
+    height: 72px;
+    /* border: 2px solid rgb(0, 255, 136); */
+    font-family: Azeret Mono;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 50px;
+
+}
+
+.middel-description {
+    width: 468px;
+    height: 52px;
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+
+.right {
+    width: 390px;
+    height: 72px;
+    /* border: 2px solid rgb(255, 234, 0); */
+
+}
+
+
+/* 3rd portion ends *
+
+
+
+
+
+<!-- my inspiration parts start from here  -->
+
+
+
+ <!-- my inspiration parts ends  here  -->
