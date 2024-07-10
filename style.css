@@ -304,23 +304,24 @@
 /* my inspration section starts */
 
 
-.inspiartion{
+.inspiartion {
     /* border: 2px solid red; */
-    margin :0 auto;
+    margin: 0 auto;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     width: 65%;
     /* margin-left: 250px; */
-   
+
 
 }
-.inspiration-headeing{
+
+.inspiration-headeing {
     margin-bottom: 30px;
 }
 
-.video{
+.video {
     margin-top: 40px;
 }
 
@@ -329,19 +330,20 @@
 
 
 
-.my_current_target{
+.my_current_target {
     /* border: 2px solid red; */
-    margin :0 auto;
+    margin: 0 auto;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     width: 65%;
     /* margin-left: 250px; */
-   
+
 
 }
-.current_target_headeing{
+
+.current_target_headeing {
     margin-bottom: 30px;
     margin-top: 30px;
 }
@@ -357,14 +359,14 @@
 
 /* skill section start here  */
 
-.skill-section{
+.skill-section {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
     width: 80%;
     margin-left: 10px;
-    margin-bottom: 300px;
+    margin-bottom: 70px;
     margin-top: 30px;
 
 }
@@ -378,7 +380,7 @@
 }
 
 
-.skill-item2{
+.skill-item2 {
     width: 33%;
     border-radius: 16px;
     background: rgba(255, 76, 30, 0.05);
@@ -387,29 +389,29 @@
 
 
 
-.skill-item3{
+.skill-item3 {
     width: 33%;
     border-radius: 16px;
     background: rgba(255, 76, 30, 0.05);
 }
 
 
-.skill-item1 p{
+.skill-item1 p {
     margin-bottom: 15px;
 }
 
-.skill-item2 p{
+.skill-item2 p {
     margin-bottom: 15px;
 }
 
-.skill-item3 p{
+.skill-item3 p {
     margin-bottom: 15px;
 }
 
 
 
 .learn {
-  
+
     color: rgb(13, 19, 33);
     font-family: Azeret Mono;
     font-size: 16px;
@@ -419,8 +421,92 @@
 }
 
 
-
-
-
-
 /* skill section ends  here  */
+
+
+
+
+
+/* i need suport section start  */
+
+
+.support-part {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 541px;
+    height: 259px;
+    margin-left: 10px;
+    margin-bottom: 70px;
+    margin-top: 30px;
+    /* border: 2px solid red; */
+    background-image: url(B10A1-Challenge-Begins/assets/handshake.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 16px;
+    /* box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); */
+    padding: 20px;
+
+}
+
+.support-title {
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 12px;
+    font-weight: 700;
+    width: 292px;
+    height: 36px;
+    margin-left: 150px;
+}
+
+
+.suport-description {
+    color: rgb(255, 255, 255);
+    font-family: Azeret Mono;
+    font-size: 16px;
+    font-weight: 400;
+    width: 606px;
+    height: 52px;
+    text-align: center;
+
+}
+
+.button-part {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 541px;
+    height: 52px;
+
+}
+
+.suport_input_from {
+    width: 320px;
+    height: 30px;
+    box-sizing: border-box;
+    /* border: 1px solid rgba(13, 19, 33, 0.15); */
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+}
+
+.submit {
+    width: 130px;
+    height: 30px;
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+    text-decoration: none !important;
+
+}
+
+
+
+
+
+/* i need suport section end  */
