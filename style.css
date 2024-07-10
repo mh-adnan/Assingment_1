@@ -304,3 +304,25 @@
 /* my inspration section starts */
 
 
+.inspiartion{
+    /* border: 2px solid red; */
+    margin :0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 65%;
+    /* margin-left: 250px; */
+   
+
+}
+.inspiration-headeing{
+    margin-bottom: 30px;
+}
+
+.video{
+    margin-top: 40px;
+}
+
+
+/* my current target start */
