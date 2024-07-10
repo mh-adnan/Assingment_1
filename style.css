@@ -10,7 +10,7 @@
 
 html {
     scroll-behavior: smooth;
-  }
+}
 
 .btn-comon {
     font-family: Azeret Mono;
@@ -99,7 +99,7 @@ html {
     text-align: center;
 }
 
-}
+
 
 
 .text {
@@ -447,7 +447,7 @@ html {
     padding: 0px;
     border-radius: 16px;
     background: rgba(255, 76, 30, 0.05);
-    
+
 
 }
 
@@ -600,7 +600,7 @@ html {
     gap: 10px;
 }
 
-.button-part input{
+.button-part input {
     text-decoration: none;
     border: none;
     outline: none;
@@ -630,8 +630,8 @@ html {
 }
 
 .suport_input_from input {
- 
-  
+
+
     width: 313px;
     height: 19px;
     display: flex;
@@ -644,8 +644,9 @@ html {
     border-radius: none;
     color: rgba(13, 19, 33, 0.4);
 }
+
 .submit {
-   
+
     position: static;
     width: 80px;
     height: 23px;
@@ -667,11 +668,11 @@ html {
     text-align: center;
     border-radius: 8px;
     background: rgb(255, 255, 255);
-    margin-right:5px;
+    margin-right: 5px;
 }
 
 
-.submit button{
+.submit button {
     outline: none;
     border: none;
     /* color: rgb(13, 19, 33); */
@@ -714,3 +715,6 @@ html {
 
 
 /* fotter part ends here */
+
+
+/* after all task complete  */
